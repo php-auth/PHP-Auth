@@ -1,8 +1,8 @@
 {
-	"name": "delight-im/auth",
+	"name": "php-auth/php-auth",
 	"description": "Authentication for PHP. Simple, lightweight and secure.",
 	"require": {
-		"php": ">=5.6.0",
+		"php": ">=7.2",
 		"ext-openssl": "*",
 		"delight-im/base64": "^1.0",
 		"delight-im/cookie": "^3.1",
@@ -11,7 +11,7 @@
 	},
 	"type": "library",
 	"keywords": [ "auth", "authentication", "login", "security" ],
-	"homepage": "https://github.com/delight-im/PHP-Auth",
+	"homepage": "https://github.com/php-auth",
 	"license": "MIT",
 	"autoload": {
 		"psr-4": {
