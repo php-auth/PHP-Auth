@@ -2,7 +2,7 @@
 	"name": "php-auth/php-auth",
 	"description": "Authentication for PHP. Simple, lightweight and secure.",
 	"require": {
-		"php": ">=7.3",
+		"php": ">=8.3",
 		"ext-openssl": "*",
 		"delight-im/base64": "^1.0",
 		"delight-im/cookie": "^3.1",
