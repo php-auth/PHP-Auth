@@ -1344,6 +1344,17 @@ This library throws two types of exceptions to indicate problems:
  * You should not offer an online password reset feature (“forgot password”) for high-security applications.
  * For high-security applications, you should not use email addresses as identifiers. Instead, choose identifiers that are specific to the application and secret, e.g. an internal customer number.
 
+## Boilerplate
+
+Implementation of the PHP-Auth library
+
+[https://github.com/php-auth/PHP-Auth-Boilerplate](https://github.com/php-auth/PHP-Auth-Boilerplate)
+
+<p align="center"><img src="https://raw.githubusercontent.com/php-auth/PHP-Auth-Boilerplate/refs/heads/main/docs/login.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/php-auth/PHP-Auth-Boilerplate/refs/heads/main/docs/create_new_account.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/php-auth/PHP-Auth-Boilerplate/refs/heads/main/docs/reset_password.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/php-auth/PHP-Auth-Boilerplate/refs/heads/main/docs/manage_users.png"></p>
+
 ## Contributing
 
 All contributions are welcome! If you wish to contribute, please create an issue first so that your feature, problem or question can be discussed.
