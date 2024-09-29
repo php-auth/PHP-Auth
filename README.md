@@ -22,7 +22,7 @@ Completely framework-agnostic and database-agnostic.
 
 ## Requirements
 
- * PHP 5.6.0+
+ * PHP >= 8.3
    * PDO (PHP Data Objects) extension (`pdo`)
      * MySQL Native Driver (`mysqlnd`) **or** PostgreSQL driver (`pgsql`) **or** SQLite driver (`sqlite`)
    * OpenSSL extension (`openssl`)
